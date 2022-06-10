@@ -13,6 +13,7 @@ affect the growth of world economics?”**.
 
 # Contributors
 
-1. CUIZHUO LU
-2. SAMACH SATHITVUDH
-3. YUTONG ZHANG
+1. KYUNGJIN CHO
+2. CUIZHUO LU
+3. SAMACH SATHITVUDH
+4. YUTONG ZHANG
